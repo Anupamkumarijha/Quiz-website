@@ -1,1 +1,1 @@
-# Quiz-website
+# javascript-quiz-project
